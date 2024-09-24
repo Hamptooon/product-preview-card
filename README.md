@@ -28,10 +28,10 @@ This project was focused on creating a clean, responsive product card that works
 ### 🖼 Screenshot
 
 #### Desktop
-![Preview](./assets/preview/preview-desktop.png)
+![Preview](./readme-files/preview-desktop.png)
 
 #### Mobile
-![Preview](./assets/preview/preview-mobile.png)
+![Preview](./readme-files/preview-mobile.png)
 
 ### 🔗 Links
 

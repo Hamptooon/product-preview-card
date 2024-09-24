@@ -28,10 +28,10 @@
 ### 🖼 Скриншот
 
 #### Версия для компьютеров
-![Preview](./assets/preview/preview-desktop.png)
+![Preview](./readme-files/preview-desktop.png)
 
 #### Мобильная версия
-![Preview](./assets/preview/preview-mobile.png)
+![Preview](./readme-files/preview-mobile.png)
 
 ### 🔗 Ссылки
 
