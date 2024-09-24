@@ -252,23 +252,19 @@ a {
   border-radius: 10px;
   color: hsl(0, 0%, 100%);
   transition: all 0.3s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .preview-card .preview-card__btn:hover {
   background-color: hsl(159, 35%, 25%);
 }
+.preview-card .preview-card__btn img {
+  width: 20px;
+  height: 20px;
+}
 .preview-card .preview-card__btn .preview-card__btn-text {
   font-weight: 700;
-  padding-left: 25px;
+  padding-left: 10px;
   position: relative;
-}
-.preview-card .preview-card__btn .preview-card__btn-text::before {
-  content: "";
-  position: absolute;
-  bottom: -2px;
-  left: 0;
-  background-image: url("../../../images/icon-cart.svg");
-  background-repeat: no-repeat;
-  background-size: contain;
-  width: 1.25rem;
-  height: 1.25rem;
 }
