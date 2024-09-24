@@ -19,7 +19,7 @@
 .preview-card{
     background-color: $white;
     max-width: 760px;
-    border-radius: 20px;
+    border-radius: 15px;
     display: flex;
     overflow: hidden;
     @media (max-width: 580px){
@@ -75,13 +75,13 @@
         }
         .preview-card__btn-text{
             font-weight: $weight700;
-            padding-left: 0.32rem;
+            padding-left: 25px;
             position: relative;
             &::before{
                 content: '';
                 position: absolute;
-                bottom: 5%;
-                left: 22%;
+                bottom: -2px;
+                left: 0;
                 background-image: url('../../../images/icon-cart.svg');
                 background-repeat: no-repeat;
                 background-size: contain;
